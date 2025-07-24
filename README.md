@@ -41,6 +41,11 @@
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
+  <!-- Power BI -->
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.svg" alt="Power BI" width="40" height="40" />
+
+  <!-- Tableau -->
+  <img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg" alt="Tableau" width="100" height="100" />
 </p>
 
 ---
