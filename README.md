@@ -92,11 +92,15 @@
 
 <!-- Optional: Pin your featured repositories here -->
 <div align="center">
-  <a href="https://github.com/harsha-1671/YOUR_REPO_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsha-1671&repo=YOUR_REPO_NAME&theme=tokyonight" />
+  <a href="https://github.com/HARSHA-1671/lane-detection-yolopv2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsha-1671&repo=lane-detection-yolopv2&theme=tokyonight" />
   </a>
 </div>
-
+<div align="center">
+  <a href="https://github.com/HARSHA-1671/lane-detection-yolopv2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsha-1671&repo=lane-detection-yolopv2&theme=tokyonight" />
+  </a>
+</div>
 ---
 
 ## 🤝 Connect with Me
