@@ -101,6 +101,11 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsha-1671&repo=lane-detection-yolopv2&theme=tokyonight" />
   </a>
 </div>
+<div align="center">
+  <a href="https://github.com/HARSHA-1671/Bit-coin-price-prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsha-1671&repo=Bit-coin-price-prediction&theme=tokyonight" />
+  </a>
+</div>
 ---
 
 ## 🤝 Connect with Me
