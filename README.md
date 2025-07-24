@@ -3,23 +3,25 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI/ML+Developer+from+India;Python+%26+Data+Science+Enthusiast;Computer+Vision+Expert;Always+Learning+New+Things&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
 </h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=harsha-1671&label=Profile%20views&color=0e75b6&style=flat" alt="harsha-1671" /> 
-  <img src="https://img.shields.io/github/followers/harsha-1671?label=Followers&style=social" alt="GitHub Badge">
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=harsha-1671&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/harsha-1671?label=Followers&style=social" alt="GitHub followers" />
 </p>
+
+---
 
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **AI/ML projects and Computer Vision applications**
-- 🌱 I'm currently learning **Advanced Deep Learning, MLOps, and Cloud Computing**
-- 👯 I'm looking to collaborate on **Open Source AI/ML projects**
+- 🌱 Currently learning **Advanced Deep Learning, MLOps, and Cloud Computing**
+- 👯 Looking to collaborate on **Open Source AI/ML projects**
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, Computer Vision**
 - 📫 How to reach me: **masudisaiharsha@gmail.com**
-- ⚡ Fun fact into insights!**
+- ⚡ Fun fact: Turning insights into actions!
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -43,42 +45,84 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harsha-1671&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harsha-1671&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-1671&layout=compact&langs_count=8&theme=tokyonight&hide=jupyter%20notebook,html,css&custom_title=Most%20Used%20Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsha-1671&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsha-1671&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 🐍 Watch the Snake eat my contributions!
+## 🐍 Watch the Snake Eat My Contributions!
 
 <div align="center">
+  <!-- Replace this URL if using GitHub Actions below -->
   <img src="https://raw.githubusercontent.com/harsha-1671/harsha-1671/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harsha-1671&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=harsha-1671&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
 
-### 📈 Activity Graph
+## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsha-1671&theme=tokyo-night" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsha-1671&theme=tokyo-night" alt="Activity Graph" />
 </div>
 
 ---
 
-### 💻 Tech Stack Breakdown
+## 💻 Tech Stack Breakdown
 
+
+---
+
+## 🔥 Latest Projects
+
+<!-- Optional: Pin your featured repositories here -->
+<div align="center">
+  <a href="https://github.com/harsha-1671/YOUR_REPO_NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsha-1671&repo=YOUR_REPO_NAME&theme=tokyonight" />
+  </a>
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/masudi-sai-harsha-6141a8175" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:masudisaiharsha@gmail.com" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/harsha-1671" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+---
+
+## 🎯 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+---
+
+<div align="center">
+  <h3>Show some ❤️ by starring some of my repositories!</h3>
+</div>
