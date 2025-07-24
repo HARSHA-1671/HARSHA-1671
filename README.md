@@ -90,6 +90,7 @@
 
 ## 💻 Tech Stack Breakdown
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-1671&layout=compact&langs_count=6&theme=dark)
 
 ---
 
