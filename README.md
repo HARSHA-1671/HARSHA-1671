@@ -50,26 +50,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harsha-1671&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-1671&layout=compact&langs_count=8&theme=tokyonight&hide=jupyter%20notebook,html,css&custom_title=Most%20Used%20Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsha-1671&theme=tokyonight" alt="GitHub Streak" />
-</div>
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harsha-1671&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
@@ -77,13 +57,6 @@
 </div>
 
 ---
-
-## 💻 Tech Stack Breakdown
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-1671&layout=compact&langs_count=6&theme=dark)
-
----
-
 ## 🔥 Latest Projects
 
 <!-- Optional: Pin your featured repositories here -->
@@ -102,6 +75,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsha-1671&repo=Bit-coin-price-prediction&theme=tokyonight" />
   </a>
 </div>
+
 ---
 
 ## 🤝 Connect with Me
