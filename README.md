@@ -60,16 +60,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsha-1671&theme=tokyonight" alt="GitHub Streak" />
 </div>
-
----
-
-## 🐍 Watch the Snake Eat My Contributions!
-
-<div align="center">
-  <!-- Replace this URL if using GitHub Actions below -->
-  <img src="https://raw.githubusercontent.com/harsha-1671/harsha-1671/output/snake.svg" alt="Snake animation" />
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
