@@ -49,8 +49,6 @@
 </p>
 
 ---
-<img src="https://raw.githubusercontent.com/HARSHA-1671/HARSHA-1671/output/snake.yml" alt="Snake animation" />
----
 
 ## 📊 GitHub Stats
 
